@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.title{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.container{
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.card{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
